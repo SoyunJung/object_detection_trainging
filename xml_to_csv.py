@@ -6,6 +6,8 @@ python xml_to_csv.py -i [PATH_TO_IMAGES_FOLDER]/train -o [PATH_TO_ANNOTATIONS_FO
 # Create test data:
 python xml_to_csv.py -i [PATH_TO_IMAGES_FOLDER]/test -o [PATH_TO_ANNOTATIONS_FOLDER]/test_labels.csv
 """
+
+#4월 17일 업데이트 (github + vs code 연동 실습)
 #modifed by Prof. Kim 2024. 03. 22
 
 import os
